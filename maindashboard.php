@@ -135,8 +135,8 @@ session_start();
         <p>Your one-stop solution for learning and managing courses online.</p>
         <?php if(!isset($_SESSION['username'])): ?>
             <div>
-                <a href="signup.php" class="btn">Sign Up</a>
-                <a href="login.php" class="btn">Login</a>
+                <a href="SignUp_Login.php" class="btn">Sign Up</a>
+                <a href="SignUp_Login.php" class="btn">Login</a>
             </div>
         <?php else: ?>
             <div>
