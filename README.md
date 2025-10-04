@@ -60,13 +60,17 @@ This project is an **Online Learning Platform** designed to provide students wit
 <img width="1355" height="610" alt="image" src="https://github.com/user-attachments/assets/1c9d8885-ddda-4bc5-8e15-3bc63ea98cc8" />
 <img width="1354" height="596" alt="image" src="https://github.com/user-attachments/assets/8d3f8210-bc10-43bc-b4de-2859408e8da7" />
 <img width="1351" height="589" alt="image" src="https://github.com/user-attachments/assets/2c489afd-8d11-4adb-bee9-578ce8a50ab8" />
-#### Instructor:
+
+**Instructor**
+
 <img width="1345" height="584" alt="image" src="https://github.com/user-attachments/assets/a83b26f8-165e-4c82-bd2b-3171a0bb5b89" />
 <img width="1349" height="563" alt="image" src="https://github.com/user-attachments/assets/b9f33fd6-5de0-4840-8ff2-951f5b9d998c" />
 <img width="1350" height="556" alt="image" src="https://github.com/user-attachments/assets/01efef3f-1263-4ebc-a0fe-6b4ea0aef331" />
 <img width="1344" height="550" alt="image" src="https://github.com/user-attachments/assets/8819fa63-4ace-4774-8528-04bbef9053c9" />
 <img width="1318" height="587" alt="image" src="https://github.com/user-attachments/assets/d673ca33-3f1c-45c1-9309-0de173d22a03" />
-#### Student:
+
+**Student**
+
 <img width="1348" height="562" alt="image" src="https://github.com/user-attachments/assets/61afe978-420f-4531-a752-72c12fcc5fd4" />
 <img width="1343" height="531" alt="image" src="https://github.com/user-attachments/assets/35e30baa-9e59-4d38-bc78-a5f174abe372" />
 <img width="1357" height="569" alt="image" src="https://github.com/user-attachments/assets/38b108ea-f3f6-483d-a355-c5301b7a9122" />
