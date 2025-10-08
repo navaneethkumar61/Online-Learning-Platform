@@ -29,9 +29,6 @@ session_start();
         .navbar ul li a:hover { color: #ffd6e0; }
 
         /* Hero Section */
-        /* Hero Section */
-/* Hero Section */
-/* Hero Section */
 .hero {
     position: relative;
     display: flex;
@@ -45,7 +42,6 @@ session_start();
     color: #fff;
     overflow: hidden;
     filter: brightness(1);
-    /* Push hero below navbar */
     /* margin-top: 70px; adjust this to your navbar height */
 }
 
@@ -70,7 +66,6 @@ session_start();
     z-index: 2;
 }
 
-/* Optional: Add some spacing above and below text */
 .hero h2 {
     margin-bottom: 15px;
 }
@@ -148,7 +143,7 @@ session_start();
     <!-- About Section -->
     <section id="about" style="padding:50px; text-align:center;">
         <h2>About Us</h2>
-        <p>EduPlatform is designed to provide a seamless online learning experience. We connect students and instructors in an interactive environment.</p>
+        <p>LearnHub is designed to provide a seamless online learning experience. We connect students and instructors in an interactive environment.</p>
     </section>
 
     <!-- Contact Section -->

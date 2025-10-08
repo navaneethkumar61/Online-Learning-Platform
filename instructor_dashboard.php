@@ -5,7 +5,7 @@ session_start();
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "onlinelearning"; // Align with login.php database
+$db = "onlinelearning"; 
 $conn = new mysqli($host, $user, $pass, $db);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
@@ -501,6 +501,7 @@ const sections = document.querySelectorAll('.section');
 
 links.forEach(link => {
     link.addEventListener('click', e => {
+        if (link.getAttribute('href') === 'logout.php') return;
         e.preventDefault();
         sections.forEach(s => s.classList.remove('active'));
         links.forEach(l => l.classList.remove('active'));

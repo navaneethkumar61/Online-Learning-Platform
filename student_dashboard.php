@@ -327,6 +327,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     tabs.forEach(tab => {
         tab.addEventListener("click", function(e) {
+            if (tab.getAttribute('href') === 'logout.php') return;
             e.preventDefault();
             tabs.forEach(t => t.classList.remove("active"));
             sections.forEach(s => s.classList.remove("active"));
